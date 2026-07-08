@@ -4,5 +4,6 @@ public class PrintDemo2 {
         String text = "小凯真的凯";
 
         System.out.println(text);
+        System.out.println("小凯真的凯");
     }
 }
